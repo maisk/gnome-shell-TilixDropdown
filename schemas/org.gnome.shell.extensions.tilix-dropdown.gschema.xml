@@ -1,7 +1,7 @@
 <schemalist>
   <schema id="org.gnome.shell.extensions.tilix-dropdown" path="/org/gnome/shell/extensions/tilix-dropdown/">
     <key type="as" name="key">
-      <default><![CDATA[['F10']]]></default>
+      <default><![CDATA[['F1']]]></default>
       <summary>Key to start tilix in quake mode</summary>
     </key>
   </schema>
